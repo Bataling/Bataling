@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bata1ing
-- 👀 I’m interested in learning some stuff
 - 🌱 I’m currently learning the complete basics
+- 🎓 Never took Comp Science in school
 - 📫 Bataling#9597 on Discord
 
 <!---
