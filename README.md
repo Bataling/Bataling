@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bataling
-- 🌱 I’m currently learning the complete basics
-- 🎓 Never took Comp Science in school
-- 📫 Bataling#9597 on Discord
+- 🎓 Learning Python for modeling at University
+- 📫 Bataling on Discord
 
 <!---
 Bata1ing/Bata1ing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
